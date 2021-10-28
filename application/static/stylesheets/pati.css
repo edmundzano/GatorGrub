@@ -1,0 +1,111 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.ps-container-profile {
+    background-color: #c8dad3;
+    height: 450px;
+    width: 1300px;
+    text-align: center;
+    margin-left: 60px;
+
+
+    width: 91%;
+    margin-left: auto;
+    margin-right: auto;
+
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2);
+}
+
+
+.profile-img {
+    padding-top: 50px;
+}
+
+
+.ps-container-description {
+    background-color: #c8dad3;
+    height: 250px;
+    width: 1300px;
+    text-align: center;
+    margin-left: 60px;
+
+
+    width: 91%;
+    margin-left: auto;
+    margin-right: auto;
+
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2);
+}
+
+
+.psh1 {
+    color: #93b5b3;
+    padding-top: 10px;
+}
+
+
+.pspbody {
+    color: #63707e;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    width: 90%;
+    padding-bottom: 30px;
+}
+
+
+.ps-container-skillset {
+    background-color: #c8dad3;
+    height: 250px;
+    width: 1300px;
+    text-align: center;
+    margin-left: 60px;
+
+
+    width: 91%;
+    margin-left: auto;
+    margin-right: auto;
+
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2);
+}
+
+
+.ps-container-experience {
+    background-color: #c8dad3;
+    height: 250px;
+    width: 1300px;
+    text-align: center;
+    margin-left: 60px;
+
+
+    width: 91%;
+    margin-left: auto;
+    margin-right: auto;
+
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2);
+}
+
+
+.ps-container-projects {
+    background-color: #c8dad3;
+    height: 475px;
+    width: 1300px;
+    text-align: center;
+    margin-left: 60px;
+
+
+    width: 91%;
+    margin-left: auto;
+    margin-right: auto;
+
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2);
+}

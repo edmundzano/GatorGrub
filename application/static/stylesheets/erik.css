@@ -1,0 +1,25 @@
+body {
+    background-color: #93b5b3;
+}
+
+div.navbar-site {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+div.navbar-site a {
+    width: 100%;
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+    font-style: oblique;
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
